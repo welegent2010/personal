@@ -1,6 +1,6 @@
 # Academic CV
 
-You can preview the CV as a [PDF](https://geoffboeing.com/share/cv-gboeing.pdf).
+You can preview the CV as a [PDF](https://welegent2010.github.io/personal/share/cv-gboeing.pdf).
 
 This repo contains [Wang Xiaodong](https://welegent2010.github.io/personal/)'s **LaTeX academic CV**, permissively licensed for others to adapt.
 
